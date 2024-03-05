@@ -1,0 +1,29 @@
+body {
+    background-color: skyblue;
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    background: linear-gradient(to right, darkgrey, #333); 
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+h1, h2, h3 {
+    font-family: 'Lobster', cursive; 
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Arial', sans-serif; 
+    line-height: 1.5;
+}
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
