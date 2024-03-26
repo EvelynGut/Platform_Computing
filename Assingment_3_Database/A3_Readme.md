@@ -23,7 +23,7 @@ The following **bonus** features are implemented:
 ## Screenshot and/or Video Walkthrough
 
 
-<img width="1680" alt="MongoDB_Tracking.png" src="Assingment_3_Database/Images/MongoDB_Tracking.png">
+<img width="1680" alt="MongoDB_Tracking.png" src="https://raw.githubusercontent.com/EvelynGut/Platform_Computing/main/Assingment_3_Database/Images/MongoDB_Tracking.png">
 
 
 ## Notes:
